@@ -2,7 +2,7 @@
 
 Submitted by: **Abenezer Getachew**
 
-**Starter** is an app that... [TODO] 
+**Starter** is an app that contains lables of name, educational institute, occupation and button that changes color of the background.   
 
 Time spent: **1** hours spent in total
 
@@ -27,8 +27,26 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+Instagram:
+  Direct messaging
+  Image sharing
+
+Twitter
+  Real-time News
+  Thread Feature
+
+Amazon
+  Image recognition search
+  No clutters
+
+Waze
+  Real-time Traffic updates
+  Route recommendation
+
+
 
 ## Notes
+Educational video sharing app.
 
 Describe any challenges encountered while building the app.
 
