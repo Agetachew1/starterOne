@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *Starter*
 
-Submitted by: **Your Name Here**
+Submitted by: **Abenezer Getachew**
 
-**Name of your app** is an app that... [TODO] 
+**Starter** is an app that... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
